@@ -1,0 +1,20 @@
+.btn-container {
+    text-align: center;
+}
+
+.btn-caption {
+    margin: 0;
+}
+
+.cell {
+    margin-bottom: 0;
+}
+
+td {
+    border-style: none;
+    text-align: center;
+}
+
+.tooltip-text {
+    margin: 0;
+}
